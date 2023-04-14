@@ -1,0 +1,48 @@
+*{
+  background:rgb(23,33,45);
+  color:white;
+}
+h1{
+  text-align:center;
+background-image:linear-gradient(to right,black,yellow,green,whitesmoke,red,blue);
+color:black;
+margin-bottom:0;
+padding-bottom:0;
+
+}
+p{
+  background:transparent;
+  text-align:center;
+}
+img{
+  display:block;
+}
+#image{
+max-width:100%;
+height:auto;
+}
+#img-div{
+  display:center;
+}
+figcaption{
+  text-align:center;
+}
+#header{
+  background:rgb(182, 180, 180);
+  color:black;
+}
+#tribute-info, ul,li{
+  background:lightgrey;
+  color:black;
+  text-decoration:none;
+}
+h4{
+ background:rgb(182, 180, 180);  color:black;
+ text-align:center;
+}
+#tribute-link{
+  color:crimson;
+  background:rgb(182, 180, 180);
+  padding-top:0px;
+  margin-top:0px;
+}

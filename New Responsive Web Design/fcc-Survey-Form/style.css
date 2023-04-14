@@ -1,0 +1,40 @@
+body{
+background-image:linear-gradient(to right,skyblue,cyan,whitesmoke);
+}
+h1{
+  text-align:center;
+  box-shadow: 0 0 10px 0 blue;
+    background: linear-gradient(hsl(186, 76%, 16%), hsl(227, 90%, 60%), hsl(244, 56%, 42%));
+font-family:Tahoma;
+color:white;
+}
+input{
+  margin-bottom:10px;
+  display:inline-block;
+}
+.pour{
+margin: 10px 0 0 0;
+width: 50%;
+min-height: 2em;
+}
+form{
+    width: 80vw;
+  max-width: 600px;
+  min-width: 250px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+.service{
+  font-size:18px;
+  font-family:Tahoma;
+}
+input[type="submit"] {
+  display: block;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  border-color: white;
+}
+#description{
+  font-size:22px;
+}
